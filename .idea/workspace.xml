@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="Variables were made...">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/marketing.kt" afterDir="false" />
+    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="If...else">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/salary.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d4e41c84-d272-44ec-8fe5-619b9e4c9343" />
+        <option name="url" value="https://github.com/BIGmanErick/spring23.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,7 +54,7 @@
       <recent name="C:\Users\erick\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MarketingKt">
+  <component name="RunManager">
     <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit02.MarketingKt" />
       <module name="spring23" />
@@ -100,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676265503152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="If...else">
+      <created>1676588453285</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676588453285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="If...else">
+      <created>1676588460266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676588460266</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +145,7 @@
     <MESSAGE value="New Project" />
     <MESSAGE value="Made changes to files" />
     <MESSAGE value="Variables were made..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Variables were made..." />
+    <MESSAGE value="If...else" />
+    <option name="LAST_COMMIT_MESSAGE" value="If...else" />
   </component>
 </project>
