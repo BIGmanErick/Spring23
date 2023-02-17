@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="If...else">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/salary.kt" afterDir="false" />
+    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="Salary">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/salesPrediction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676588460266</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Salary">
+      <created>1676591096283</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676591096283</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +153,7 @@
     <MESSAGE value="Made changes to files" />
     <MESSAGE value="Variables were made..." />
     <MESSAGE value="If...else" />
-    <option name="LAST_COMMIT_MESSAGE" value="If...else" />
+    <MESSAGE value="Salary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Salary" />
   </component>
 </project>
