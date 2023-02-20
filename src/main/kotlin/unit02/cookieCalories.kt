@@ -4,11 +4,11 @@ fun main(args: Array<String>){
     print("Number of cookies you ate: ")
 
     var cookiesAte = readln()!!
-    var numberCookiesAte: Int = cookiesAte.toInt()
+    var numberCookiesAte: Double = cookiesAte.toDouble()
 
     val cookieCal = 75
 
-    var totalCaloriesAte = (numberCookiesAte) * (cookieCal)
+    var totalCaloriesAte: Double = (numberCookiesAte) * (cookieCal)
 
 
     println("You ate: $totalCaloriesAte calories.")

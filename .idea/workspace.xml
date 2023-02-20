@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="Sales Prediction">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/cookieCalories.kt" afterDir="false" />
+    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="cookies...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676600488881</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Sales Prediction">
+      <created>1676765621953</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676765621953</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cookies...">
+      <created>1676765655976</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676765655976</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +175,8 @@
     <MESSAGE value="If...else" />
     <MESSAGE value="Salary" />
     <MESSAGE value="Sales Prediction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sales Prediction" />
+    <MESSAGE value="Cookies..." />
+    <MESSAGE value="cookies..." />
+    <option name="LAST_COMMIT_MESSAGE" value="cookies..." />
   </component>
 </project>
