@@ -2,10 +2,11 @@ package unit02
 fun main(){
     val myAge : Int = 21
     var averageAge : Double = 21.0
-    averageAge = 25.5
+    averageAge = (( myAge + 30.0)/2.0).also{println(it)}
+
     val testNumber: Int
-    testNumber = 60
-    val evenOdd = testNumber
+    testNumber = 47
+    val evenOdd: Int = testNumber % 2
     println(evenOdd)
 
 
