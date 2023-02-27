@@ -22,7 +22,7 @@ fun main() {
         8 -> println("The Roman Numeral is, VIII")
         9 -> println("The Roman Numeral is, IX")
         10 -> println("The Roman Numeral is, X")
-        else -> println("The Number you entered was not between 1 and 0.")
+        else -> println("The Number you entered was not between 1 and 10.")
     }
 
 
