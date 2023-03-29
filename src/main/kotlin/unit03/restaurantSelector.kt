@@ -17,7 +17,7 @@ fun main(){
     val isVegan: Boolean = readlnOrNull()?.equals("yes", ignoreCase = true) ?: false
 
     println("Is anyone in your party gluten-free? ")
-    val isGlutenFree = readlnOrNull()?.equals("yes", true) ?: false
+    val isGlutenFree: Boolean = readlnOrNull()?.equals("yes", ignoreCase = true ) ?: false
 
     // Filter restaurant options based on dietary restrictions
     val restaurantOptions: List<Map<String, Any>> = restaurants.filter { restaurant ->
