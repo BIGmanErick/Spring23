@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="cookies...">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit02/compoundInterest.kt" afterDir="false" />
+    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="Population Increasing day by day...">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit04/SumOfNumbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/primeTime.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +14,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -44,20 +52,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\erick\IdeaProjects\spring23\src\main\kotlin\unit01" />
       <recent name="C:\Users\erick\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.PrimeTimeKt">
+    <configuration name="LetterCounterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit04.LetterCounterKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit02.MarketingKt" />
       <module name="spring23" />
@@ -65,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit02.VariablesKt" />
+    <configuration name="PopulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit04.PopulationKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeTimeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit05.PrimeTimeKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit04.SumOfNumbersKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,8 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PrimeTimeKt" />
+        <item itemvalue="Kotlin.PopulationKt" />
+        <item itemvalue="Kotlin.LetterCounterKt" />
+        <item itemvalue="Kotlin.SumOfNumbersKt" />
         <item itemvalue="Kotlin.MarketingKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +197,105 @@
       <option name="project" value="LOCAL" />
       <updated>1676936819864</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Compound Interest...">
+      <created>1676959541091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676959541091</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Favorite City...">
+      <created>1677112667463</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677112667463</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Variables...">
+      <created>1677455263631</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677455263631</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Roman Numerals...">
+      <created>1677463304913</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677463304913</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Roman Numerals...">
+      <created>1677463495431</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677463495431</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Magic Numbers...">
+      <created>1677559184674</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677559184674</updated>
+    </task>
+    <task id="LOCAL-00018" summary="BMI...">
+      <created>1677734174370</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677734174370</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Mass and Weight...">
+      <created>1678304037480</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678304037480</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Names names names...">
+      <created>1678412067042</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1678412067042</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Running the Race...">
+      <created>1679786849417</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679786849417</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Running the Race...">
+      <created>1680068124563</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1680068124563</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Restaurant Choices...">
+      <created>1680068178890</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1680068178890</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Restaurant Choices...">
+      <created>1680068587627</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1680068587627</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Population Increasing day by day...">
+      <created>1682056113552</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1682056113552</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +318,17 @@
     <MESSAGE value="Sales Prediction" />
     <MESSAGE value="Cookies..." />
     <MESSAGE value="cookies..." />
-    <option name="LAST_COMMIT_MESSAGE" value="cookies..." />
+    <MESSAGE value="Compound Interest..." />
+    <MESSAGE value="Favorite City..." />
+    <MESSAGE value="Variables..." />
+    <MESSAGE value="Roman Numerals..." />
+    <MESSAGE value="Magic Numbers..." />
+    <MESSAGE value="BMI..." />
+    <MESSAGE value="Mass and Weight..." />
+    <MESSAGE value="Names names names..." />
+    <MESSAGE value="Running the Race..." />
+    <MESSAGE value="Restaurant Choices..." />
+    <MESSAGE value="Population Increasing day by day..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Population Increasing day by day..." />
   </component>
 </project>
