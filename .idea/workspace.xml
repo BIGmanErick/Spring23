@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="Population Increasing day by day...">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit04/SumOfNumbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/primeTime.kt" afterDir="false" />
+    <list default="true" id="f72eccd7-bdd2-42de-a971-5f0fca5cc628" name="Changes" comment="Prime Numbers only...">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/unit05/recursiveFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,16 +64,9 @@
       <recent name="C:\Users\erick\IdeaProjects\spring23\src\main\kotlin" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PrimeTimeKt">
+  <component name="RunManager" selected="Kotlin.RecursiveFunctionKt">
     <configuration name="LetterCounterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit04.LetterCounterKt" />
-      <module name="spring23" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MarketingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="unit02.MarketingKt" />
       <module name="spring23" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RecursiveFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unit05.RecursiveFunctionKt" />
+      <module name="spring23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfNumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit04.SumOfNumbersKt" />
       <module name="spring23" />
@@ -103,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RecursiveFunctionKt" />
         <item itemvalue="Kotlin.PrimeTimeKt" />
         <item itemvalue="Kotlin.PopulationKt" />
         <item itemvalue="Kotlin.LetterCounterKt" />
         <item itemvalue="Kotlin.SumOfNumbersKt" />
-        <item itemvalue="Kotlin.MarketingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682056113552</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Prime Numbers only...">
+      <created>1682967398980</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1682967398980</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +335,7 @@
     <MESSAGE value="Running the Race..." />
     <MESSAGE value="Restaurant Choices..." />
     <MESSAGE value="Population Increasing day by day..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Population Increasing day by day..." />
+    <MESSAGE value="Prime Numbers only..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Numbers only..." />
   </component>
 </project>
